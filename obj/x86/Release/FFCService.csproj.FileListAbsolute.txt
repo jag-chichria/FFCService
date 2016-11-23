@@ -1,0 +1,38 @@
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\bin\Release\ffc.exe.config
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\bin\Release\ffc.exe
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\bin\Release\ffc.pdb
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\bin\Release\com.rssb.win.services.ffc.dll
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\bin\Release\AMS.Profile.dll
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\bin\Release\com.rssb.win.services.ffc.pdb
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\obj\x86\Release\ResolveAssemblyReference.cache
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\obj\x86\Release\ffc.FFCService.resources
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\obj\x86\Release\ffc.ProjectInstaller.resources
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\obj\x86\Release\ffc.exe
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\obj\x86\Release\ffc.pdb
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\obj\x86\Release\ResolveAssemblyReference.cache
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\bin\Release\FFCService.exe.config
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\bin\Release\FFCService.exe
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\bin\Release\FFCService.pdb
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\bin\Release\com.rssb.win.services.ffc.dll
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\bin\Release\AMS.Profile.dll
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\bin\Release\com.rssb.win.services.ffc.pdb
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\obj\x86\Release\FFCService.FFCService.resources
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\obj\x86\Release\FFCService.ProjectInstaller.resources
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\obj\x86\Release\FFCService.exe
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\obj\x86\Release\FFCService.pdb
+I:\my data\Temp\FFCService\bin\Release\FFCService.exe.config
+I:\my data\Temp\FFCService\obj\x86\Release\FFCService.exe
+I:\my data\Temp\FFCService\obj\x86\Release\FFCService.pdb
+I:\my data\Temp\FFCService\bin\Release\FFCService.exe
+I:\my data\Temp\FFCService\bin\Release\FFCService.pdb
+I:\my data\Temp\FFCService\obj\x86\Release\ResolveAssemblyReference.cache
+I:\my data\Temp\FFCService\obj\x86\Release\FFCService.FFCService.resources
+I:\my data\Temp\FFCService\obj\x86\Release\FFCService.ProjectInstaller.resources
+I:\my data\Temp\FFCService\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+I:\my data\Temp\FFCService\obj\x86\Release\ResGen.read.1.tlog
+I:\my data\Temp\FFCService\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+I:\my data\Temp\FFCService\obj\x86\Release\ResGen.write.1.tlog

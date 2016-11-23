@@ -1,0 +1,21 @@
+C:\Users\deepti\documents\visual studio 2010\Projects\FTPFileSystemCleanupService\ffc\ffc\bin\Debug\ffc.exe
+C:\Users\deepti\documents\visual studio 2010\Projects\FTPFileSystemCleanupService\ffc\ffc\bin\Debug\ffc.pdb
+C:\Users\deepti\documents\visual studio 2010\Projects\FTPFileSystemCleanupService\ffc\ffc\bin\Debug\com.rssb.win.services.ffc.dll
+C:\Users\deepti\documents\visual studio 2010\Projects\FTPFileSystemCleanupService\ffc\ffc\bin\Debug\AMS.Profile.dll
+C:\Users\deepti\documents\visual studio 2010\Projects\FTPFileSystemCleanupService\ffc\ffc\bin\Debug\com.rssb.win.services.ffc.pdb
+C:\Users\deepti\documents\visual studio 2010\Projects\FTPFileSystemCleanupService\ffc\ffc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\deepti\documents\visual studio 2010\Projects\FTPFileSystemCleanupService\ffc\ffc\obj\x86\Debug\ffc.exe
+C:\Users\deepti\documents\visual studio 2010\Projects\FTPFileSystemCleanupService\ffc\ffc\obj\x86\Debug\ffc.pdb
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\bin\Debug\ffc.exe.config
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\bin\Debug\ffc.exe
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\bin\Debug\ffc.pdb
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\bin\Debug\com.rssb.win.services.ffc.dll
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\bin\Debug\AMS.Profile.dll
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\bin\Debug\com.rssb.win.services.ffc.pdb
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\obj\x86\Debug\ffc.FFCService.resources
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\obj\x86\Debug\ffc.ProjectInstaller.resources
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\obj\x86\Debug\ffc.exe
+I:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\ffc\obj\x86\Debug\ffc.pdb

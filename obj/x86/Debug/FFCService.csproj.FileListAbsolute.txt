@@ -1,0 +1,23 @@
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\bin\Debug\FFCService.exe.config
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\bin\Debug\FFCService.exe
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\bin\Debug\FFCService.pdb
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\bin\Debug\com.rssb.win.services.ffc.dll
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\bin\Debug\AMS.Profile.dll
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\bin\Debug\com.rssb.win.services.ffc.pdb
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\obj\x86\Debug\FFCService.FFCService.resources
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\obj\x86\Debug\FFCService.ProjectInstaller.resources
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\obj\x86\Debug\FFCService.exe
+H:\My Data\My Documents\My SEWA Projects\FTPFileSystemCleanupService\FFCService\obj\x86\Debug\FFCService.pdb
+I:\my data\Temp\FFCService\bin\Debug\FFCService.exe.config
+I:\my data\Temp\FFCService\obj\x86\Debug\FFCService.exe
+I:\my data\Temp\FFCService\obj\x86\Debug\FFCService.pdb
+I:\my data\Temp\FFCService\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\my data\Temp\FFCService\obj\x86\Debug\FFCService.FFCService.resources
+I:\my data\Temp\FFCService\obj\x86\Debug\FFCService.ProjectInstaller.resources
+I:\my data\Temp\FFCService\obj\x86\Debug\ResGen.read.1.tlog
+I:\my data\Temp\FFCService\obj\x86\Debug\ResGen.write.1.tlog
+I:\my data\Temp\FFCService\bin\Debug\FFCService.exe
+I:\my data\Temp\FFCService\bin\Debug\FFCService.pdb

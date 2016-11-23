@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FTPFileSystemCleanup>
+  <section name="ServiceExecuteEvery">
+    <entry name="1M">
+    </entry>
+  </section>
+</FTPFileSystemCleanup>
